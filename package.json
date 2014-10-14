@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/milivoj-kovacevic-devtech/JavaScriptTest/issues"
   },
-  "homepage": "https://github.com/milivoj-kovacevic-devtech/JavaScriptTest"
+  "homepage": "https://github.com/milivoj-kovacevic-devtech/JavaScriptTest",
+  "dependencies": {
+    "express": "^4.9.7"
+  },
+  "devDependencies": {
+    "bower": "^1.3.12"
+  }
 }
