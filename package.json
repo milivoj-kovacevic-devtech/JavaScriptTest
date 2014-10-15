@@ -16,6 +16,9 @@
     "url": "https://github.com/milivoj-kovacevic-devtech/JavaScriptTest/issues"
   },
   "homepage": "https://github.com/milivoj-kovacevic-devtech/JavaScriptTest",
+  "engines": {
+	"node": ">= 0.10.26"
+  },
   "dependencies": {
     "express": "^4.9.7",
     "jade": "^1.7.0",
