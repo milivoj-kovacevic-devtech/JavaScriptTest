@@ -1,7 +1,6 @@
 describe("test", function() {
 	
-	it("should pass", function(done) {
-		done();
+	it("should pass", function() {
 	});
 
 });
