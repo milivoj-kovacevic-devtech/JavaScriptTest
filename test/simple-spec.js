@@ -1,7 +1,7 @@
 describe("test", function() {
 	
 	it("should pass", function() {
-		expect(true).not.to.be.false;
+		assert.equal(0, 0);
 	});
 	
 	it("should be skipped");
