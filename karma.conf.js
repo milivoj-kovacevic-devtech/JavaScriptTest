@@ -11,7 +11,7 @@ module.exports = function(config){
 
     autoWatch : true,
 
-    frameworks: ['jasmine'],
+    frameworks: ['jasmine', 'chai'],
 
     browsers : ['PhantomJS'],
 
